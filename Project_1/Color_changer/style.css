@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#nav_bar
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aquamarine;
+    
+}
+#home #link
+{
+    border: 2px solid black;
+    gap: 2px;
+    padding :2px;
+    border-radius: 100px;
+    text-decoration: none;
+
+}
